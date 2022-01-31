@@ -7,7 +7,7 @@ const nameComponent = (
 
 const pictureComponent = (
     <div id = "picture_out">
-        <img id = "picture_comp" src = "./image.jpg"/>
+        <img id = "picture_comp" src = "./Image.jpg"/>
     </div>
 );
 
